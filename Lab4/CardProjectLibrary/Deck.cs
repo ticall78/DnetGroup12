@@ -44,23 +44,23 @@ namespace PeterCardLibrary
                 }
              }
                 
-            else if (numOfCards == 20)
-            {
-                 cards = new PlayingCard[20];
-                for (int suitVal = 0; suitVal < 4; suitVal++)
+                else if (numOfCards == 20)
                 {
-                    for (int rankVal = 10; rankVal < 14; rankVal++)
+                     cards = new PlayingCard[20];
+                    for (int suitVal = 0; suitVal < 4; suitVal++)
                     {
-                        cards[suitVal * 5 + rankVal - 10] = new PlayingCard((Rank)suitVal,
-                                                                    (Suit)rankVal);
-                    }
+                        for (int rankVal = 10; rankVal < 14; rankVal++)
+                        {
+                            cards[suitVal * 5 + rankVal - 10] = new PlayingCard((Rank)suitVal,
+                                                                        (Suit)rankVal);
+                        }
+                     }
                  }
-             }
     
-            else
-            {
-               
-            }
+                else
+                {
+                    Console.Write("Please enter a : ");
+                }
                 
           }       
        
