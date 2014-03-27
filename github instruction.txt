@@ -1,0 +1,17 @@
+how to use github
+
+shell
+
+1. cd DnetGroup12(press tab)
+2. git pull(get the stuff from the repository
+3. open my documents github folder
+4. after modification/save
+5. back to shell
+6. git commit -am "message" hit enter 
+7. git push
+
+
+blue- updated/push
+green - ready to push
+yellow/read - error/conflict 
+CTRL + F "<<<<<"
