@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\obj\Debug\LogandStats.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\LogandStats.dll
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\LogandStats.pdb
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\ChlOCardLib.dll
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\ChlOCardLib.pdb
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\obj\Debug\LogandStats.dll
+C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\obj\Debug\LogandStats.pdb
