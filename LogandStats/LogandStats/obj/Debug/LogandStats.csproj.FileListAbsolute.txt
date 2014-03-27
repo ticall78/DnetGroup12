@@ -5,3 +5,9 @@ C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\ChlOC
 C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\bin\Debug\ChlOCardLib.pdb
 C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\obj\Debug\LogandStats.dll
 C:\Users\Owner\Documents\School Programs\LogandStats\LogandStats\obj\Debug\LogandStats.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\LogandStats.dll
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\LogandStats.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\ChlOCardLib.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.dll
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.pdb

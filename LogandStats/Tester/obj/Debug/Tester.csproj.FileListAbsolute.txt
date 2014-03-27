@@ -7,3 +7,11 @@ C:\Users\Owner\Documents\School Programs\LogandStats\Tester\bin\Debug\LogandStat
 C:\Users\Owner\Documents\School Programs\LogandStats\Tester\bin\Debug\LogandStats.pdb
 C:\Users\Owner\Documents\School Programs\LogandStats\Tester\obj\Debug\Tester.exe
 C:\Users\Owner\Documents\School Programs\LogandStats\Tester\obj\Debug\Tester.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.exe.config
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.exe
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.exe
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.dll
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
