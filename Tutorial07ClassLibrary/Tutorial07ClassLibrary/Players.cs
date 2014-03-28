@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Tutorial07ClassLibrary;
 
-namespace Tutorial07ClassLibrary
+namespace Players
 {
-    public class Player
+    public class Players
     {
         public string Name
         {
@@ -19,11 +19,11 @@ namespace Tutorial07ClassLibrary
             get;
             private set;
         }
-        private Player()
+        private Players()
         {
         }
 
-        public Player(string name)
+        public Players(string name)
         {
             Name = name;
             PlayHand = new Cards();
@@ -31,7 +31,7 @@ namespace Tutorial07ClassLibrary
         public bool HasWon()
         {
             bool won = true;
-            Suit match = PlayHand[0].suit;
+            CardSuit match = PlayHand[0].suit;
             for (int i = 1; i < PlayHand.Count; i++)
             {
                 won &= PlayHand[i].suit == match;

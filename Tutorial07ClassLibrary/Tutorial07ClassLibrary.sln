@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCard", "Tutorial07Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardBox", "CardBox\CardBox.csproj", "{689D0D0C-5DBE-4F67-BD5A-9C65F29584A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Player", "Player\Player.csproj", "{5C952EC2-23B7-40A3-95CB-67D4726892ED}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{689D0D0C-5DBE-4F67-BD5A-9C65F29584A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{689D0D0C-5DBE-4F67-BD5A-9C65F29584A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{689D0D0C-5DBE-4F67-BD5A-9C65F29584A5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5C952EC2-23B7-40A3-95CB-67D4726892ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5C952EC2-23B7-40A3-95CB-67D4726892ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5C952EC2-23B7-40A3-95CB-67D4726892ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5C952EC2-23B7-40A3-95CB-67D4726892ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
