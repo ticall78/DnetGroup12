@@ -1,0 +1,5 @@
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\Tutorial07ClassLibrary.Properties.Resources.resources
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\PlayingCard.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\PlayingCard.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\Tutorial07ClassLibrary.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\PlayingCard.csproj.GenerateResource.Cache

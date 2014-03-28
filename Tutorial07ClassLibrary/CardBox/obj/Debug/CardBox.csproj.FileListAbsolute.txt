@@ -1,0 +1,12 @@
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\bin\Debug\CardBox.dll
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\bin\Debug\CardBox.pdb
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.dll
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.pdb
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.UserControl1.resources
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.CardBox.resources
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.dll
+C:\Users\Administrator\Desktop\2014-01\VISB6201\Week07\HaidYLab4\Tutorial07ClassLibrary\CardBox\obj\Debug\CardBox.pdb

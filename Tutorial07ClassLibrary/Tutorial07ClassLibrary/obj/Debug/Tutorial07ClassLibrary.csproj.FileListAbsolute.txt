@@ -1,0 +1,3 @@
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\Tutorial07ClassLibrary.Properties.Resources.resources
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\Tutorial07ClassLibrary.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\College Semester 4\C#\Tutorial07ClassLibrary\Tutorial07ClassLibrary\obj\Debug\Tutorial07ClassLibrary.csprojResolveAssemblyReference.cache
