@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\obj\Debug\DurakIA.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\bin\Debug\DurakIA.dll
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\bin\Debug\DurakIA.pdb
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\bin\Debug\Ch11CardLib.dll
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\obj\Debug\DurakIA.dll
+C:\Users\Owner\Documents\School Programs\DurakIA\DurakIA\obj\Debug\DurakIA.pdb
