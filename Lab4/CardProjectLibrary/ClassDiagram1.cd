@@ -18,6 +18,13 @@
     </TypeIdentifier>
     <Lollipop Position="0.19" />
   </Class>
+  <Class Name="PeterCardLibrary.humanPlayer">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>humanPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Enum Name="PeterCardLibrary.Suit">
     <Position X="3.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
