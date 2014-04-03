@@ -4,6 +4,7 @@
     <Position X="5" Y="0.5" Width="1.5" />
     <Compartments>
       <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
     </Compartments>
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAEBA=</HashCode>
@@ -21,7 +22,7 @@
   <Class Name="PeterCardLibrary.humanPlayer">
     <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAIAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
       <FileName>humanPlayer.cs</FileName>
     </TypeIdentifier>
   </Class>

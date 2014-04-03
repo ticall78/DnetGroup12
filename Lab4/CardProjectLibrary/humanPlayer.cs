@@ -8,7 +8,22 @@ namespace PeterCardLibrary
 {
     public class humanPlayer
     {
-        int humanWins = 0;
+        private PlayingCard humanCard;
+        private int humanWins;
+        private Deck deck;
+
+
+   //    public PlayGame()
+   //    {
+   //        InitializeComponent();
+   //        humanWins = 0;
+   //        deck = new Deck(1);
+
+   //    }
+
+
+
+        
 
 
     }
