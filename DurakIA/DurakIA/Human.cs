@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Ch11CardLib; //Will change to our card library in later use. 
-namespace DurakAI
+namespace DurakHuman
 {
-    public class AI
+    public class Human
     {
+    
+
         /// <summary>
-        /// Not done, will have to work on logic involving what the computer does when there is a stack of attacks and defends still in play.
+        /// Not done, will have to work on logic involving what the computer does when there is a stack of attacks and defends still in play"War".
         /// Plus have to comment this better overall later, just a startup pretty much I guess. 
         /// </summary>
         /// <param name="trump"></param>
@@ -72,31 +74,15 @@ namespace DurakAI
             int count = 0;
           
             Card useCard;//Card that will be used to attack.
-            useCard = playable[0];
-            count = 0;
 
-            //It goes through a loop of the cards in the hand, looking for the least valued playable card possible to attack with
-            foreach (Card usable in playable)
-            {
-                count += 1;
-                if (useCard.rank > playable[count].rank && playable[count].suit != trump)
-                {
-                    useCard = playable[count];
-                }
 
-                if (useCard.suit == trump && playable[count].suit != trump)
-                {
-                    useCard = playable[count];
-                }
 
-                if (useCard.suit == trump && playable[count].rank < useCard.rank)
-                {
-                    useCard = playable[count];
-                }
-            }
 
-            //Returns least valued card for attack.
-            return useCard;
+            ///Logic will have to go here where human decides which card to use in the playable array of cards, which will be between 1 and playables.
+
+
+          
+            return useCard; //Whichver card the human picks
             
         }
 
@@ -144,35 +130,13 @@ namespace DurakAI
 
             }
 
-            useCard = playable[0];//Automatically makes the usecard the first card in the array of playable cards
+          
+            ///Logic will have to go here where human decides which card to use in the playable array of cards, which will be between 1 and playables.
 
-
-            count = 0;
-            //Goes through a loop for as many times as there are playablecards from the counter of playable cards.
-            do
-            {  
-                    count += 1;
-                    //If statements to check if the card being read is a lower value than the currently stored usecard
-                    //If the check being read is a lower value than the current usecard, that card becomes the new usecard
-                    if (useCard.rank > playable[count].rank && playable[count].suit != trump)
-                    {
-                        useCard = playable[count];
-                    }
-
-                    if (useCard.suit == trump && playable[count].suit != trump)
-                    {
-                        useCard = playable[count];
-                    }
-
-                    if (useCard.suit == trump && playable[count].rank < useCard.rank)
-                    {
-                        useCard = playable[count];
-                    }
-                }
-            while (count < playables);
-            //Returns lowest value card
-            return useCard;
+         
+            return useCard;//Whichever card the user picks.
 
         }
     }
 }
+
