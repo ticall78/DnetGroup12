@@ -43,6 +43,9 @@
     <Compile Include="..\..\DurakIA\DurakIA\AI.cs">
       <Link>AI.cs</Link>
     </Compile>
+    <Compile Include="..\..\DurakIA\DurakIA\Human.cs">
+      <Link>Human.cs</Link>
+    </Compile>
     <Compile Include="humanPlayer.cs" />
     <Compile Include="PlayingCard.cs" />
     <Compile Include="Deck.cs" />

@@ -15,3 +15,11 @@ C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.dll
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.pdb
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.exe.config
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.exe
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.exe
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\Tester.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.dll
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\bin\Debug\LogandStats.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache

@@ -11,3 +11,9 @@ C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.dll
 C:\Users\Administrator\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\LogandStats.dll
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\LogandStats.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\bin\Debug\ChlOCardLib.pdb
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.csprojResolveAssemblyReference.cache
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.dll
+C:\Users\PK Ticallion\Documents\GitHub\DnetGroup12\LogandStats\LogandStats\obj\Debug\LogandStats.pdb
