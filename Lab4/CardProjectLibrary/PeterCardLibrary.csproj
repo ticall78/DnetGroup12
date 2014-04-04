@@ -40,13 +40,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\DurakIA\DurakIA\AI.cs">
+    <Compile Include="..\AI.cs">
       <Link>AI.cs</Link>
     </Compile>
-    <Compile Include="..\..\DurakIA\DurakIA\Human.cs">
+    <Compile Include="..\Human.cs">
       <Link>Human.cs</Link>
     </Compile>
-    <Compile Include="humanPlayer.cs" />
     <Compile Include="PlayingCard.cs" />
     <Compile Include="Deck.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
