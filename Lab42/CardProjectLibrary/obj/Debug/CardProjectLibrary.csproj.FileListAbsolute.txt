@@ -1,5 +1,0 @@
-c:\users\pk ticallion\documents\visual studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\bin\Debug\CardProjectLibrary.dll
-c:\users\pk ticallion\documents\visual studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\bin\Debug\CardProjectLibrary.pdb
-c:\users\pk ticallion\documents\visual studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\CardProjectLibrary.csprojResolveAssemblyReference.cache
-c:\users\pk ticallion\documents\visual studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\CardProjectLibrary.dll
-c:\users\pk ticallion\documents\visual studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\CardProjectLibrary.pdb
