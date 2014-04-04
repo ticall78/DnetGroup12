@@ -1,0 +1,28 @@
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\PeterCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\PeterCardLibrary.Properties.Resources.resources
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\PeterCardLibrary.csproj.GenerateResource.Cache
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\CardProjectLibrary.dll
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\obj\Debug\CardProjectLibrary.pdb
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\bin\Debug\CardProjectLibrary.dll
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\CardProjectLibrary\CardProjectLibrary\bin\Debug\CardProjectLibrary.pdb
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.dll
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.pdb
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.Properties.Resources.resources
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csproj.GenerateResource.Cache
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.dll
+C:\Users\PK Ticallion\Documents\Visual Studio 2012\Projects\DNET\Labs\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.dll
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.pdb
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.dll
+C:\Users\Administrator\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.pdb
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.dll
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\bin\Debug\CardProjectLibrary.pdb
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.Properties.Resources.resources
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\PeterCardLibrary.csproj.GenerateResource.Cache
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.dll
+C:\Users\Stephanie\Documents\GitHub\DnetGroup12\Lab4\CardProjectLibrary\obj\Debug\CardProjectLibrary.pdb
