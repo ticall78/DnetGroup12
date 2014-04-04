@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBox", "PictureBox\Pi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoTester", "DemoTester\DemoTester.csproj", "{18FA5103-095E-484F-96E6-2F79B0C16D6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMenuForm", "..\MainMenuForm\MainMenuForm\MainMenuForm.csproj", "{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,16 +47,6 @@ Global
 		{18FA5103-095E-484F-96E6-2F79B0C16D6A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{18FA5103-095E-484F-96E6-2F79B0C16D6A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{18FA5103-095E-484F-96E6-2F79B0C16D6A}.Release|x86.ActiveCfg = Release|Any CPU
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Debug|x86.ActiveCfg = Debug|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Debug|x86.Build.0 = Debug|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Release|Any CPU.ActiveCfg = Release|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Release|Mixed Platforms.Build.0 = Release|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Release|x86.ActiveCfg = Release|x86
-		{02F91387-1C51-4EC8-9C8C-1CB4C468C2BA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

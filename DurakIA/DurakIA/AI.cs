@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Ch11CardLib; //Will change to our card library in later use. 
+using PeterCardLibrary; //Will change to our card library in later use. 
 namespace DurakAI
 {
     public class AI
